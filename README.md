@@ -9,3 +9,5 @@ Calcular total de votos nulos
 Calcular total de votos em branco
 FIM ENQUANTO...
 FIM.
+
+
