@@ -1,6 +1,6 @@
 #
 ## ALGORITMO
-### Início 
+### Início
 
 ENQUANTO...Há candidatos?
 Ler os votos dos candidatos
