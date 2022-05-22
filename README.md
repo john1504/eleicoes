@@ -1,5 +1,5 @@
 #
-
+## ALGORITMO
 ### Início
 
 ENQUANTO...Há candidatos?
